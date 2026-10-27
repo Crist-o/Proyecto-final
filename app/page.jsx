@@ -356,7 +356,7 @@ export default function Home() {
           <a className="footer-contact" href="mailto:hola@lomolomitos.mx">
             ¿Platicamos? <span>hola@lomolomitos.mx</span>
           </a>
-          <span className="footer-copy">Hecho con amor y muchas huellitas · © 2026 Lomo lomitos</span>
+          <span className="footer-copy">Proyecto final de la materia Ingeniería de software - Cristopher Altamirano Hernandez - 225361423</span>
         </div>
       </footer>
     </>
